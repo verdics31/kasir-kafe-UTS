@@ -1,0 +1,13 @@
+com\mycompany\kafeweb\EWallet.class
+com\mycompany\kafeweb\resources\JakartaEE11Resource.class
+com\mycompany\kafeweb\Tunai.class
+com\mycompany\kafeweb\JakartaRestConfiguration.class
+com\mycompany\kafeweb\ItemMenu.class
+com\mycompany\kafeweb\KafeServlet.class
+com\mycompany\kafeweb\Merchandise.class
+com\mycompany\kafeweb\Kopi.class
+com\mycompany\kafeweb\Roti.class
+com\mycompany\kafeweb\Pesanan.class
+com\mycompany\kafeweb\Pembayaran.class
+com\mycompany\kafeweb\Voucher.class
+com\mycompany\kafeweb\BarisPesanan.class
